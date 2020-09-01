@@ -11,6 +11,8 @@ Why we need this library?
 * It doesn't requires a special configuration. It works with practically every project.
 * It doesn't requires a standard, PSR-0 PSR-4 or any other. And yet, it is compatible with it.
 
+![ui1](doc/flash.jpg)
+
 ## What is an autoloader?
 
 Let's say the next example
