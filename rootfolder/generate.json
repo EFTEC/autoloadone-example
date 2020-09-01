@@ -1,0 +1,21 @@
+{
+    "application": "AutoloadOne",
+    "generated": "2020/09/01 06:32",
+    "local": {
+        "rooturl": ".",
+        "fileGen": ".",
+        "savefile": "1",
+        "compression": "1",
+        "savefileName": "autoload.php",
+        "excludeNS": "",
+        "excludePath": "",
+        "externalPath": "../externalproject"
+    },
+    "remote": {
+        "1": {
+            "rooturl": "",
+            "destination": ".",
+            "name": ""
+        }
+    }
+}

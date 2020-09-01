@@ -1,0 +1,15 @@
+{
+    "name": "eftec/autoloadone-example",
+    "description": "Example code of library AutoLoadOne",
+    "type": "project",
+    "require": {
+        "eftec/autoloadone": "^1.19"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Castro",
+            "email": "jorge.castro.c@gmail.com"
+        }
+    ]
+}
