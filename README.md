@@ -143,6 +143,12 @@ It works with any case, PSR-0, PSR-4, no namespaces, different folders, and even
 
 ### 1) Download the library or include via composer.
 
+You can download the file AutoLoadOne.php
+
+[https://github.com/EFTEC/autoloadone](https://github.com/EFTEC/autoloadone)
+
+Or you can install via composer
+
 > composer require eftec/autoloadone
 
 This library doesn't have any dependency, so it could also  be downloaded and copied in any folder.
